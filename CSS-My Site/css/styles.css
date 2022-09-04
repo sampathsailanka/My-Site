@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background-color: #CEE5D0;
   text-align: center;
 }
 h1 {
@@ -31,6 +32,13 @@ h1 {
   bottom: 300px;
 }
 .middle-container {
+  background-color: #CEE5D0;
   position: relative;
   top: 20px;
+}
+.bottom-container{
+  background-color: #CEE5D0;
+}
+.contact-me{
+  background-color: #CEE5D0;
 }
